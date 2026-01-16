@@ -19,4 +19,3 @@ It then prints the results to the console.
 | OR       | `|`    | Each bit is 1 if at least one bit is 1    |
 | XOR      | `^`    | Each bit is 1 if only one bit is 1        |
 
-
