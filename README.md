@@ -1,4 +1,4 @@
-# 🔢 Bitwise Operations in Java
+ 🔢 Bitwise Operations in Java
 
 This repository contains a simple Java program that demonstrates the use of **bitwise operators** — AND (`&`), OR (`|`), and XOR (`^`) — using two integers.
 
